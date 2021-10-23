@@ -17,7 +17,7 @@ a.btn-cta-primary,
 .btn-cta-primary{background:#3399db;border:1px solid #3399db;color:#fff;font-weight:600;text-transform:uppercase;}
 a.btn-cta-primary:hover,
 .btn-cta-primary:hover{background:#5b8aa8;border:1px solid #5b8aa8;color:#fff;}
-#uploadBtn{background:#3399db;border:1px solid #000000;color:#fff;margin-bottom:0px;}
+#uploadBtn{background:#000000;border:1px solid #000000;color:#fff;margin-bottom:0px;}
 a.btn-cta-secondary,
 .btn-cta-secondary{background:#777;border:1px solid #777;color:#fff;font-weight:600;text-transform:uppercase;}
 a.btn-cta-secondary:hover,
